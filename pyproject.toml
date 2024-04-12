@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "distributions"
+version = "0.0.1"
+dependencies = ["numpy"]
+
+
+authors = [
+    {name = "Fergus Baker", email = "fergus.baker@bristol.ac.uk"},
+]
+description = "Various statistics functions for computing distributions."
+readme = "README.md"
+requires-python = ">=3.8"
+
+
+[project.scripts]
+distrb = "distributions:main_cli"
+
+[tool.setuptools]
+packages = ["distributions"]
