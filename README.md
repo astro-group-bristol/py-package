@@ -4,4 +4,4 @@ Download the slides from [the latest release](https://github.com/astro-group-bri
 
 ---
 
-Montserrat font by [Julieta Ulanovsky](https://www.fontspace.com/montserrat-font-f16544), licensed under SIL OFL.
+Montserrat font by [Julieta Ulanovsky](https://github.com/JulietaUla/Montserrat), licensed under SIL OFL.
